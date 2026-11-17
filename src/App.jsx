@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import {
   ArrowDown, ArrowDownRight, ArrowRight, ArrowUpRight, Check, ChevronDown,
   ExternalLink, Github, Heart, Linkedin, Mail, Menu, Paperclip,
